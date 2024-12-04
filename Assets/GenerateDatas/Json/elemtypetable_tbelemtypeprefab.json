@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "elemType": 5,
+    "path": "Elem/Rock"
+  },
+  {
+    "id": 2,
+    "elemType": 1,
+    "path": "Elem/Wind"
+  },
+  {
+    "id": 3,
+    "elemType": 3,
+    "path": "Elem/Water"
+  },
+  {
+    "id": 4,
+    "elemType": 4,
+    "path": "Elem/Fire"
+  },
+  {
+    "id": 5,
+    "elemType": 2,
+    "path": "Elem/Grass"
+  }
+]

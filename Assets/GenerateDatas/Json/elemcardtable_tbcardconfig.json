@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "CardName": "史莱姆",
+    "describe": "SlimeSmlie!",
+    "imgPath": "Slime",
+    "cardType": 1,
+    "affordableElems": [
+      4
+    ],
+    "neededElems": [
+      5,
+      4
+    ]
+  }
+]
